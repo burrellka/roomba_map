@@ -1,0 +1,11 @@
+{
+  "domain": "roomba_map",
+  "name": "Roomba Map Integration",
+  "version": "0.1.0",
+  "config_flow": true,
+  "documentation": "https://github.com/burrellka/roomba_map",
+  "requirements": ["roombapy>=1.9.1"],
+  "dependencies": [],
+  "codeowners": ["@kevinburrell"],
+  "iot_class": "local_polling"
+}
